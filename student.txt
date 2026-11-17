@@ -1,0 +1,10 @@
+101,John Doe,CS101,85.5
+102,Jane Smith,CS101,92.0
+103,Alice Johnson,CS102,78.5
+104,Bob Brown,CS101,85.5
+105,Charlie Davis,CS102,60.0
+106,Eva Wilson,CS103,99.5
+107,Frank Moore,CS101,45.0
+108,Grace Taylor,CS102,88.0
+109,Henry Anderson,CS103,72.5
+110,Ivy Thomas,CS101,85.5
